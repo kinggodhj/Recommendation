@@ -7,11 +7,14 @@
 - Dividing validation and test set -> validation train / validation test
 
    validation train and validation test are item exclusive 
+ 
+- data dim (batch, #item) 
   
+- Input matrix consists of 0, 1 in implicit feed back (transforming the data into binary type using threshold) 
 
 ## Evaluation
 
--Trian
+- Trian
   
    Input == output 
    
@@ -21,6 +24,7 @@
    
    Recommend item using the input item's information
 
+ 
 
 ## Papers
 
