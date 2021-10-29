@@ -12,6 +12,13 @@
   
 - Input matrix consists of 0, 1 in implicit feed back (transforming the data into binary type using threshold) 
 
+### Benchmark datasets
+
+MovieLens-20M [https://grouplens.org/datasets/movielens/20m/]
+
+MSD (Million Song Data) [http://millionsongdataset.com/] 
+
+
 ## Evaluation
 
 - Trian
@@ -31,3 +38,13 @@
 RecVAE: a New Variational Autoencoder for Top-N Recommendations with Implicit Feedback
 
  -> Composite prior 
+
+Enhancing VAEs for Collaborative Filtering: Flexible Priors & Gating Mechanisms
+  
+ -> RecVAE + gate 
+ 
+ : Because of gate, training speed is slower than VAE model 
+  
+   Regarding to performance, it is slightly higher than VAE model's
+ 
+ 
