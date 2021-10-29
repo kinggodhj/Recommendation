@@ -14,9 +14,9 @@
 
 ### Benchmark datasets
 
-MovieLens-20M [https://grouplens.org/datasets/movielens/20m/]
+MovieLens-20M [link](https://grouplens.org/datasets/movielens/20m/)
 
-MSD (Million Song Data) [http://millionsongdataset.com/] 
+MSD (Million Song Data) [link](http://millionsongdataset.com/)
 
 
 ## Evaluation
@@ -31,6 +31,9 @@ MSD (Million Song Data) [http://millionsongdataset.com/]
    
    Recommend item using the input item's information
 
+### Metrics
+
+NDCG k 
  
 
 ## Papers
